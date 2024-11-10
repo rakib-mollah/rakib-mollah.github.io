@@ -5,6 +5,8 @@ permalink: /
 no_title_link: true
 ---
 
+<link rel="stylesheet" href="../assets/style.css">
+
 Personal Background
 ---
 I am a second year master's student at the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. I graduated from Duke University in 2023 with a double major in Computer Science and Mathematics. **I am applying to NLP PhD programs for Fall 2025**.
@@ -18,6 +20,12 @@ I am broadly interested in language models and exploring their capabilities and 
 
 News
 ---
+
+<table>
+	<tr>
+		<td>Oct 2024</td><td>Attending CoLM 2024 and presenting Dated Data (Outstanding Paper Award)</td>
+	</tr>
+</table>
 
 | | |
 | --- | :--- |
