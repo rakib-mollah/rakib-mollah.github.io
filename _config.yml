@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jeff Cheng"
-  avatar : "/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Master's Student and Johns Hopkins CLSP"
   links:
     - label: "Twitter"
