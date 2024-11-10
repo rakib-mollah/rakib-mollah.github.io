@@ -2,7 +2,6 @@
 title: "About Me"
 sitemap: false
 permalink: /
-no_title_link: true
 ---
 
 <link rel="stylesheet" href="../assets/style.css">
