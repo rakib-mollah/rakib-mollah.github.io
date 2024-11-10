@@ -68,6 +68,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nexync"
+    - label: "Google Scholar"
+      icon: "fab fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=MWN7IR4AAAAJ&hl=en"
 
 footer:
   links:
@@ -77,6 +80,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nexync"
+    - label: "Google Scholar"
+      icon: "fab fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=MWN7IR4AAAAJ&hl=en"
 
 defaults:
   # _posts
