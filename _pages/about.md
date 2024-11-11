@@ -24,11 +24,7 @@ News
 	<tr>
 		<td>Oct 2024</td><td>Attending CoLM 2024 and presenting Dated Data (Outstanding Paper Award)</td>
 	</tr>
+	<tr>
+		<td>Jul 2024</td><td>Dated Data accepted to CoLM 2024</td>
+	</tr>
 </table>
-
-| | |
-| --- | :--- |
-|**Oct 2024** | Attending CoLM 2024 and presenting Dated Data (Outstanding Paper Award) |
-|**Jul 2024** | Dated Data accepted to CoLM 2024 |
-|**Aug 2023** | Started my MSE at Johns Hopkins |
-|**May 2023** | Graduated from Duke |
