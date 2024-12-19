@@ -1,5 +1,0 @@
----
-title: "CV"
-sitemap: false
-permalink: /assets/cv_jeffrey_cheng.pdf
----
