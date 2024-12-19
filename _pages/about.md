@@ -22,6 +22,9 @@ News
 
 <table>
 	<tr>
+		<td>Dec 2024</td><td>New Preprint out! Compressed Chain of Thought: Efficient Reasoning through Dense Representations</td>
+  	</tr>
+	<tr>
 		<td>Oct 2024</td><td>Attending CoLM 2024 and presenting Dated Data (Outstanding Paper Award)</td>
 	</tr>
 	<tr>
