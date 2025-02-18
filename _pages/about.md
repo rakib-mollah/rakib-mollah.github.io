@@ -19,18 +19,18 @@ I am broadly interested in language models and exploring their capabilities and 
 
 News
 ---
-
+ 
 <table>
 	<tr>
-		<td>Dec 2024</td><td>New Preprint out! Compressed Chain of Thought: Efficient Reasoning through Dense Representations. [[paper](https://arxiv.org/abs/2412.13171)]</td>
+		<td>Dec 2024</td><td>New Preprint out! Compressed Chain of Thought: Efficient Reasoning through Dense Representations. <a href="https://arxiv.org/abs/2412.13171">[paper]</a> </td>
   	</tr>
 	<tr>
 		<td>Oct 2024</td><td>Attending CoLM 2024 and presenting Dated Data (Outstanding Paper Award)</td>
 	</tr>
 	<tr>
-		<td>Jul 2024</td><td>Dated Data accepted to CoLM 2024</td>
+		<td>Jul 2024</td><td>Dated Data accepted to CoLM 2024!</td>
 	</tr>
 	<tr>
-		<td>Mar 2024</td><td>New Preprint out! Dated Data: Tracing Knowledge Cutoffs in Large Language Models [[paper](https://arxiv.org/abs/2403.12958)]</td>
+		<td>Mar 2024</td><td>New Preprint out! Dated Data: Tracing Knowledge Cutoffs in Large Language Models. <a href="https://arxiv.org/abs/2403.12958">[paper]</a> </td>
 	</tr>
 </table>
