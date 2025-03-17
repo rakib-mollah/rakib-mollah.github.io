@@ -17,10 +17,10 @@ News
  
 <table>
 	<tr>
-		<td width="15%">Feb 2025</td><td>New preprint released! Is That Your Final Answer? <a href="https://arxiv.org/abs/2502.13962">[paper]</a></td>
+		<td width="15%">Feb 2025</td><td>New preprint released! Is That Your Final Answer? <a href="https://arxiv.org/abs/2502.13962">[paper]</a> <a href="https://x.com/williamjurayj/status/1892592057073512913">[tweets]</a> </td>
   	</tr>
 	<tr>
-		<td width="15%">Dec 2024</td><td>New preprint released! Compressed Chain of Thought <a href="https://arxiv.org/abs/2412.13171">[paper]</a> </td>
+		<td width="15%">Dec 2024</td><td>New preprint released! Compressed Chain of Thought <a href="https://arxiv.org/abs/2412.13171">[paper]</a> <a href="https://x.com/jeff_cheng_77/status/1869474515325190299">[tweets]</a> </td>
   	</tr>
 	<tr>
 		<td width="15%">Oct 2024</td><td>Attending CoLM 2024 and presenting Dated Data (Outstanding Paper Award)</td>
@@ -29,6 +29,6 @@ News
 		<td width="15%">Jul 2024</td><td>Dated Data accepted to CoLM 2024!</td>
 	</tr>
 	<tr>
-		<td width="15%">Mar 2024</td><td>New preprint released! Dated Data <a href="https://arxiv.org/abs/2403.12958">[paper]</a> </td>
+		<td width="15%">Mar 2024</td><td>New preprint released! Dated Data <a href="https://arxiv.org/abs/2403.12958">[paper]</a> <a href="https://x.com/jeff_cheng_77/status/1772355368649187669">[tweets]</a> </td>
 	</tr>
 </table>
