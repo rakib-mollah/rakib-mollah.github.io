@@ -17,15 +17,18 @@ News
  
 <table>
 	<tr>
-		<td>Dec 2024</td><td>New Preprint out! Compressed Chain of Thought: Efficient Reasoning through Dense Representations. <a href="https://arxiv.org/abs/2412.13171">[paper]</a> </td>
+		<td width="20%">Feb 2025</td><td>New preprint released! Is That Your Final Answer? <a href="https://arxiv.org/abs/2502.13962">[paper]</a></td>
   	</tr>
 	<tr>
-		<td>Oct 2024</td><td>Attending CoLM 2024 and presenting Dated Data (Outstanding Paper Award)</td>
+		<td width="20%">Dec 2024</td><td>New preprint released! Compressed Chain of Thought <a href="https://arxiv.org/abs/2412.13171">[paper]</a> </td>
+  	</tr>
+	<tr>
+		<td width="20%">Oct 2024</td><td>Attending CoLM 2024 and presenting Dated Data (Outstanding Paper Award)</td>
 	</tr>
 	<tr>
-		<td>Jul 2024</td><td>Dated Data accepted to CoLM 2024!</td>
+		<td width="20%">Jul 2024</td><td>Dated Data accepted to CoLM 2024!</td>
 	</tr>
 	<tr>
-		<td>Mar 2024</td><td>New Preprint out! Dated Data: Tracing Knowledge Cutoffs in Large Language Models. <a href="https://arxiv.org/abs/2403.12958">[paper]</a> </td>
+		<td width="20%">Mar 2024</td><td>New preprint released! Dated Data <a href="https://arxiv.org/abs/2403.12958">[paper]</a> </td>
 	</tr>
 </table>
