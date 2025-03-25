@@ -5,6 +5,7 @@ permalink: /
 ---
 
 <link rel="stylesheet" href="../assets/style.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 
 I am a second year master's student at the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. I graduated from Duke University in 2023 with a double major in Computer Science and Mathematics. **I am applying to NLP PhD programs for Fall 2025**.
 
@@ -23,7 +24,7 @@ News
 		<td width="15%">Dec 2024</td><td>New preprint, Compressed Chain of Thought,  released! <a href="https://arxiv.org/abs/2412.13171">[paper]</a> <a href="https://x.com/jeff_cheng_77/status/1869474515325190299">[tweets]</a> </td>
   	</tr>
 	<tr>
-		<td width="15%">Oct 2024</td><td>Attended CoLM 2024 and presented Dated Data __(Outstanding Paper Award, 0.4%)__</td>
+		<td width="15%">Oct 2024</td><td>Attended CoLM 2024 and presented Dated Data <b>(Outstanding Paper Award, 0.4% <i class="bi bi-trophy"></i>)</b></td>
 	</tr>
 	<tr>
 		<td width="15%">Jul 2024</td><td>Dated Data accepted to CoLM 2024!</td>
