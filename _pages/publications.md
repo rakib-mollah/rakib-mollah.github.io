@@ -6,6 +6,7 @@ permalink: /publications/
 
 2025
 ---
+- J. Ou, W. Gantt Walden, K. Sanders, Z. Jiang, K. Sun, __J. Cheng__, W. Jurayj, M. Wanner, S. Liang, C. Morgan, S. Han, W. Wang, C. May, H. Recknor, D. Khashabi, B. Van Durme, CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?, *preprint*, 2025 [[paper]](https://arxiv.org/abs/2503.21717)
 - W. Jurayj, __J. Cheng__, B. Van Durme, Is That Your Final Answer? Test-Time Scaling Improves Selective Question Answering, *preprint*, 2025 [[paper]](https://arxiv.org/abs/2502.13962)
 
 2024
