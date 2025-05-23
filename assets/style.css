@@ -1,5 +1,9 @@
 body {
-  font-size: 17px; 
+	font-size: 17px; 
+}
+
+p.header {
+	margin-bottom: 0px;
 }
 
 .table {
