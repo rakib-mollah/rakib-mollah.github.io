@@ -4,6 +4,8 @@ sitemap: false
 permalink: /publications/
 ---
 
+<link rel="stylesheet" href="../assets/style.css">
+
 2025
 ---
 - J. Ou, W. Gantt Walden, K. Sanders, Z. Jiang, K. Sun, __J. Cheng__, W. Jurayj, M. Wanner, S. Liang, C. Morgan, S. Han, W. Wang, C. May, H. Recknor, D. Khashabi, B. Van Durme, CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?, *preprint*, 2025 [[paper]](https://arxiv.org/abs/2503.21717)
