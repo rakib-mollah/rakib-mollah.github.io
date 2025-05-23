@@ -25,9 +25,7 @@ Reasoning:
 
 Previously, I recieved my Master's at Johns Hopkins University, advised by <a href="https://www.cs.jhu.edu/~vandurme/">Benjamin Van Durme</a>. My prior research interests were in mathematics and fluid dynamics. I performed research in these areas during my undergraduate studies at Duke University, advised by <a href="https://scholars.duke.edu/person/Tarek.Elgindi">Tarek Elgindi. 
 
-I would love to discuss my research and any opportunities! Feel free to email me at <a href="https://www.desmos.com/calculator/0hyyj3gy3e">jeffrey.{lastname}{11*12}@gmail.com</a>.
-
-Outside of research, I am an avid <a href="https://www.instagram.com/jeff._.climbs/">climber</a> and <a href="https://lichess.org/@/Nexx7">chess</a> player.
+I would love to discuss my research and any opportunities! Feel free to email me at <a href="https://www.desmos.com/calculator/0hyyj3gy3e">jeffrey.{lastname}{11*12}@gmail.com</a>. Outside of research, I am an avid <a href="https://www.instagram.com/jeff._.climbs/">climber</a> and <a href="https://lichess.org/@/Nexx7">chess</a> player.
 
 News
 ---
