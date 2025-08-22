@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Jeffrey Cheng">
+  <title>About Me - Jeffrey Cheng</title>
+
+  <!-- Favicon (optional) -->
+  <link rel="icon" href="../assets/images/favicon_io/favicon.ico" type="image/x-icon">
+
+  <!-- CSS (optional, create styles.css if needed) -->
+  <link rel="stylesheet" href="style.css">
+
+  <script src="https://kit.fontawesome.com/1eccfb7f64.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link href="https://db.onlinewebfonts.com/c/0253e1401c58c5911902cdca02857f0e?family=White+Rabbit+Regular" rel="stylesheet">
+
+
+  
+</head>
+<body>
+
+<div class="header layout">
+  <div>
+    <a href="#">
+      <div>
+        Jeff Cheng
+      </div>
+    </a>
+  </div>
+  <div style="display: flex; justify-content: space-between; font-size: 16pt; align-items: center;">
+    <a href="#">
+      <div>
+        About Me
+      </div>
+    </a>
+    <div class="vertical-line"></div>
+    <a href="./publications/index.html">
+      <div>
+        Publications
+      </div>
+    </a>
+    <div class="vertical-line"></div>
+    <a>
+      <div>
+        CV
+      </div>
+    </a>
+  </div>
+</div>
+
+<hr>
+
+<div class="layout">
+  <div>
+    <div class="container container-small" style="border-radius: 4px 4px 0px 0px;">
+      <div class="container-header">
+        photo.jpg
+      </div>
+      <div class="container-content" style="padding: 0; margin: 0;">
+        <img src="../assets/images/bio-photo.jpg" style="display: block; width:100%; height:auto;"/>
+      </div>
+    </div>
+
+    <div class="container container-small">
+      <div class="container-header">
+        contact.txt
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>
+      <div class="container-content">
+        <h2 style="margin: 0px auto">
+          Jeffrey Cheng
+        </h2>
+        <h4 style="margin: 20px auto 0px auto;">
+          PhD @ Princeton PLI
+        </h4>
+        <hr>
+        <div class="link">
+          <a href="https://github.com/nexync" target="_blank">
+            <i class="fa-brands fa-github fa-2x"></i>
+          </a>
+          <a href="https://x.com/jeff_cheng_77" target="_blank">
+            <i class="fa-brands fa-x-twitter fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?hl=en&user=MWN7IR4AAAAJ" target="_blank">
+            <i class="fa-brands fa-google-scholar fa-2x"></i>
+          </a>
+        </div>
+        <hr>
+        <div class="link">
+          <a href="https://www.linkedin.com/in/jeffrey-cheng-nx7/" target="_blank">
+            <i class="fa-brands fa-linkedin fa-2x"></i>
+          </a>
+          <a href="https://www.semanticscholar.org/author/Jeffrey-Cheng/2292210330" target="_blank">
+            <i class="ai ai-semantic-scholar ai-2x"></i>
+          </a>          
+          <a href="https://orcid.org/my-orcid?orcid=0009-0003-2918-0324" target="_blank">
+            <i class="ai ai-orcid ai-2x"></i>
+          </a>
+        </div>
+        <hr>
+        <p style="text-align: center; margin: 0 auto;">
+          Contact me via X or email:
+          <br>
+          jc93 at princeton dot edu
+        </p>
+
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <div class="section">
+      About Me
+    </div>
+
+    <div class="container container-large">
+      <div class="container-header">
+        about.txt
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>
+      <div class="container-content">
+        <p>
+          I am a first year PhD student at Princeton Language and Intelligence (PLI) advised by <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>. 
+          My research interests broadly lie in the intersection of natural language processing and machine learning. 
+          I am currently interested in language models and agents; in particular, I aim to study the downstream effects of 
+          pretraining data and methods to improve the capabilities and efficiency of reasoning models. 
+        </p>
+        <br>
+        <p>
+          Below are a few questions I am interested in:
+        </p>
+      </div>
+    </div>
+
+    <div class="container container-large">
+      <div class="container-header">
+        pretraining.txt
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>      
+      <div class="container-content" >
+        Data:
+        <ul class="list">
+          <li>How does pretraining data influence language models as sources of knowledge? <a href="./publications/index.html#timestamp">Dated Data</a></li>
+          <li>Can we attribute content generated by models back to their pretraining corpus?</li>
+          <li>How do we best correct misalignments arising from knowledge conflicts in models' pretraining data?</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container container-large">
+      <div class="container-header">
+        reasoning.txt
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>
+      <div class="container-content" >
+        Reasoning:
+        <ul class="list">
+          <li>Can we make reasoning models more efficient by shifting away from a discrete token space and perform reasoning in continuous latent space? <a href="./publications/index.html#ccot">Compressed Chain of Thought</a></li>
+          <li>How much better would reasoning models be if trained with process rewards rather than just outcome rewards?</li>
+          <li>How can we construct environments with verifiable rewards and/or induce structure into reasoning chains to make models more capabale and efficient?</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container container-large">
+      <div class="container-header">
+        previous.txt
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>
+      <div class="container-content">
+        <p>
+          Previously, I recieved my Master's at Johns Hopkins University, advised by <a href="https://www.cs.jhu.edu/~vandurme/">Benjamin Van Durme</a>. 
+          My prior research interests were in mathematics and fluid dynamics. 
+          I performed research in these areas during my undergraduate studies at Duke University, advised by <a href="https://scholars.duke.edu/person/Tarek.Elgindi">Tarek Elgindi</a>.
+        </p>
+      </div>
+    </div>
+  
+    <div class="container container-large">
+      <div class="container-header">
+        misc.txt
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>
+      <div class="container-content">
+        Outside of research, I am an avid <a href="https://www.instagram.com/jeff._.climbs/">climber</a> and <a href="https://lichess.org/@/Nexx7">chess</a> player. I am also starting to run again after a long break.
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <div class="section">
+      News
+    </div>
+
+    <div class="container container-small">
+      <div class="container-header">
+        Aug 2025
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>
+      <div class="container-content">
+        Started my PhD at Princeton graciously supported by the Francis Upton Fellowship
+      </div>
+    </div>  
+
+    <div class="container container-small">
+      <div class="container-header">
+        Dec 2024
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>
+      <div class="container-content">
+        New Preprint, <a href="./publications/index.html#ccot">Compressed Chain of Thought</a>, released!
+      </div>
+    </div>  
+
+    <div class="container container-small">
+      <div class="container-header">
+        Oct 2024
+        <div class="circle-container">
+          <div class="circle" style="background-color: red"></div>
+          <div class="circle" style="background-color: lime"></div>
+        </div>
+      </div>
+      <div class="container-content">
+        Attended CoLM 2024 and presented <a href="./publications/index.html#timestamp"> Dated Data</a>. It wins Outstanding Paper Award! (Top 0.4%)
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+</body>
+</html>
