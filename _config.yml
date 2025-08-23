@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Rakib Mollah"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "ML Engineer at Euclido"
   links:
     - label: "Twitter"
