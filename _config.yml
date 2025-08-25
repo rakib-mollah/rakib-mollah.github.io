@@ -65,10 +65,10 @@ author:
       url: "https://twitter.com/jeff_cheng_77"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nexync"
+      url: "https://github.com/rakib-mollah"
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google-scholar"
-      url: "https://scholar.google.com/citations?user=MWN7IR4AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?hl=en&user=B2hJJz8AAAAJ&view_op=list_works&authuser=1"
 
 footer:
   links:
@@ -77,10 +77,10 @@ footer:
       url: "https://twitter.com/jeff_cheng_77"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nexync"
+      url: "https://github.com/rakib-mollah"
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google-scholar"
-      url: "https://scholar.google.com/citations?user=MWN7IR4AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?hl=en&user=B2hJJz8AAAAJ&view_op=list_works&authuser=1"
 
 defaults:
   # _posts
