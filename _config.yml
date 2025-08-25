@@ -69,6 +69,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?hl=en&user=B2hJJz8AAAAJ&view_op=list_works&authuser=1"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"   # or "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/abdurrakibmollah/"
 
 footer:
   links:
