@@ -8,7 +8,8 @@ permalink: /publications/
 
 2024
 ---
-- - __Mollah, M. A. R.__, Kabir, M. M. J., Reza, M. S., & Kabir, M. (2024, March). _Adapting contextual embedding to identify sentiment of e-commerce consumer reviews with addressing class imbalance issues._ In 2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS) (pp. 1–6). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/10499554)
+- __Mollah, M. A. R.__, Kabir, M. M. J., Reza, M. S., & Kabir, M. (2024, March). _Adapting contextual embedding to identify sentiment of e-commerce consumer reviews with addressing class imbalance issues._ In 2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS) (pp. 1–6). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/10499554)
+
 2023
 ---
 - __J. Cheng__ & B. Van Durme, Compressed Chain of Thought: Efficient Reasoning through Dense Representations, *preprint*, 2024 [[paper]](https://arxiv.org/abs/2412.13171)
