@@ -44,12 +44,12 @@ Slices of life
 	<tr>
 		<td width="15%">Nov 2024</td><td>Created a python package <a href="https://pypi.org/project/DetectVideoShotLength/">DetectVideoShotLength</a> to analyze movie scene lengths.</td>
   	</tr>
-	<tr>
+<!-- 	<tr>
 		<td width="15%">Oct 2024</td><td>Attended CoLM 2024 and presented Dated Data <b>(Outstanding Paper Award, 0.4% <i class="bi bi-trophy"></i>)</b></td>
 	</tr>
 	<tr>
 		<td width="15%">Jul 2024</td><td>Dated Data accepted to CoLM 2024!</td>
-	</tr>
+	</tr> -->
 	<tr>
 		<td width="15%">Mar 2024</td><td>New preprint, Dated Data, is out! <a href="https://arxiv.org/abs/2403.12958">[paper]</a> <a href="https://x.com/jeff_cheng_77/status/1772355368649187669">[tweets]</a> </td>
 	</tr>
