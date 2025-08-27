@@ -42,10 +42,7 @@ Slices of life
 		<td width="15%">Apr 2025</td><td>Contributed to <a href="https://github.com/aritraghsh09/pdflatex_bengali">pdflatex_bengali</a> for Bangla Transliteration with <a href="https://medium.com/@rakib1703115/writing-bangla-in-pdflatex-now-made-easy-53e43ab6f172">Bangtex</a> </td>
   	</tr>
 	<tr>
-		<td width="15%">Feb 2025</td><td>New preprint, Is That Your Final Answer?, released! <a href="https://arxiv.org/abs/2502.13962">[paper]</a> <a href="https://x.com/williamjurayj/status/1892592057073512913">[tweets]</a> </td>
-  	</tr>
-	<tr>
-		<td width="15%">Dec 2024</td><td>New preprint, Compressed Chain of Thought,  released! <a href="https://arxiv.org/abs/2412.13171">[paper]</a> <a href="https://x.com/jeff_cheng_77/status/1869474515325190299">[tweets]</a> </td>
+		<td width="15%">Nov 2024</td><td>Created a python package <a href="https://pypi.org/project/DetectVideoShotLength/">DetectVideoShotLength</a> to analyze movie scene lengths.</td>
   	</tr>
 	<tr>
 		<td width="15%">Oct 2024</td><td>Attended CoLM 2024 and presented Dated Data <b>(Outstanding Paper Award, 0.4% <i class="bi bi-trophy"></i>)</b></td>
