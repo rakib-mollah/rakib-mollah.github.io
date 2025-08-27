@@ -29,6 +29,7 @@ Leveraging my sentiment analysis background, I am exploring how **Direct Prefere
 
 ### Multi-Agent Story Generation  
 Building on my Bangla text generation experience, I am curious on novel frameworks where **specialized agents collaborate** to structure narratives. This approach targets the discourse incoherence and hallucination common in single-model systems, maintaining creative flexibility through **controlled multi-agent orchestration**.
+
 <!-- 
 Below are a few questions I am interested in:
 
@@ -46,6 +47,7 @@ Below are a few questions I am interested in:
 <li>How can we construct environments with verifiable rewards and/or induce structure into reasoning chains to make models more capabale and efficient?</li>
 </ul>
 -->
+
 I would love to discuss my research and any opportunities! Feel free to email me at *rakib.ruet.cs@gmail.com*
 
 Outside of work, I play <a href="https://fantasy.premierleague.com/entry/1519949/event/1">Fantasy Premier League</a>, I am a hobbyist photographer, and I also try to write short stories and poems.
