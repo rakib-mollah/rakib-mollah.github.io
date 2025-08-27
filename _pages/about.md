@@ -51,6 +51,7 @@ Slices of life
 		<td width="15%">Jul 2024</td><td>Dated Data accepted to CoLM 2024!</td>
 	</tr> -->
 	<tr>
-		<td width="15%">Mar 2024</td><td>New preprint, Dated Data, is out! <a href="https://arxiv.org/abs/2403.12958">[paper]</a> <a href="https://x.com/jeff_cheng_77/status/1772355368649187669">[tweets]</a> </td>
+		<td width="15%">Mar 2024</td><td>Attended *iCACCESS 2024* conference and presented <a href="https://ieeexplore.ieee.org/document/10499554">this paper</a>.
+		</td>
 	</tr>
 </table>
