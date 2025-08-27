@@ -37,6 +37,9 @@ News
 		<td width="15%">May 2025</td><td>Paper Rejected in ACL 2025😭!</td>
   	</tr>
 	<tr>
+		<td width="15%">Apr 2025</td><td>Contributed to <a href="https://github.com/aritraghsh09/pdflatex_bengali">pdflatex_bengali</a> for Bangla Transliteration with <a href="https://medium.com/@rakib1703115/writing-bangla-in-pdflatex-now-made-easy-53e43ab6f172">Bangtex</a> </td>
+  	</tr>
+	<tr>
 		<td width="15%">Feb 2025</td><td>New preprint, Is That Your Final Answer?, released! <a href="https://arxiv.org/abs/2502.13962">[paper]</a> <a href="https://x.com/williamjurayj/status/1892592057073512913">[tweets]</a> </td>
   	</tr>
 	<tr>
