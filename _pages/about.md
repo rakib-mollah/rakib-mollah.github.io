@@ -11,6 +11,25 @@ I completed my BSc in Computer Science & Engineering from Rajshahi University of
 
 My research interests broadly lie in the intersection of natural language processing and machine learning. I am currently interested in language models and agents; in particular, I aim to study the downstream effects of **pretraining data** and methods to improve the capabilities and efficiency of **reasoning** models. 
 
+## Current Role  
+As an ML Engineer, I translate research into production-ready AI solutions. My work includes:  
+
+- **Designing and deploying a Retrieval-Augmented Generation (RAG) chatbot** that delivers dynamic, context-aware responses.  
+- **Implementing a knowledge graph** to model relationships between chatbot sessions, enhancing contextual understanding—directly applying principles from my prior research in political stance detection.  
+- **Building an autonomous AI agent** to manage ETL pipelines, reducing manual effort through end-to-end automation.  
+
+## Research Interests 
+My work experiences have clarified key challenges in real-world AI deployment and shaped my research focus:  
+
+### Knowledge-Enhanced Reasoning Systems  
+I am researching on **knowledge propagation through political entity graphs**, which will improve accuracy in stance detection —especially for underrepresented political domains.
+
+### Financial Reasoning via Preference Optimization  
+Leveraging my sentiment analysis background, I am exploring how **Direct Preference Optimization (DPO)** can enhance financial reasoning in vision-language models. Unlike conventional fine-tuning (which often degrades multimodal capabilities), DPO-based methods promise to **preserve cross-modal understanding** while boosting domain-specific performance even in smaller language models.  
+
+### Multi-Agent Story Generation  
+Building on my Bangla text generation experience, I am curious on novel frameworks where **specialized agents collaborate** to structure narratives. This approach targets the discourse incoherence and hallucination common in single-model systems, maintaining creative flexibility through **controlled multi-agent orchestration**.
+<!-- 
 Below are a few questions I am interested in:
 
 <p class="header">Data:</p>
@@ -26,10 +45,10 @@ Below are a few questions I am interested in:
 <li>How much better would reasoning models be if trained with process rewards rather than just outcome rewards?</li>
 <li>How can we construct environments with verifiable rewards and/or induce structure into reasoning chains to make models more capabale and efficient?</li>
 </ul>
-
+-->
 I would love to discuss my research and any opportunities! Feel free to email me at *rakib.ruet.cs@gmail.com*
 
-Outside of work, I play <a href="https://fantasy.premierleague.com/entry/1519949/event/1">Fantasy Premier League</a>.
+Outside of work, I play <a href="https://fantasy.premierleague.com/entry/1519949/event/1">Fantasy Premier League</a>, I am a hobbyist photographer, and I also try to write short stories and poems.
 
 Slices of life
 ---
