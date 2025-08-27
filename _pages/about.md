@@ -29,7 +29,7 @@ I would love to discuss my research and any opportunities! Feel free to email me
 
 Outside of work, I play <a href="https://fantasy.premierleague.com/entry/1519949/event/1">Fantasy Premier League</a>.
 
-News
+Slice of life
 ---
  
 <table>
