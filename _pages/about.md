@@ -7,7 +7,9 @@ permalink: /
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 
-I completed my BSc in Computer Science & Engineering from Rajshahi University of Engineering & Technology. I am currently working as a Machine Learning Engineer at Euclido.Inc.- a Canada-based Ed-tech start-up. My research interests broadly lie in the intersection of natural language processing and machine learning. I am currently interested in language models and agents; in particular, I aim to study the downstream effects of **pretraining data** and methods to improve the capabilities and efficiency of **reasoning** models. 
+I completed my BSc in Computer Science & Engineering from Rajshahi University of Engineering & Technology. I am currently working as a Machine Learning Engineer at Euclido.Inc.- a Canada-based Ed-tech start-up. 
+
+My research interests broadly lie in the intersection of natural language processing and machine learning. I am currently interested in language models and agents; in particular, I aim to study the downstream effects of **pretraining data** and methods to improve the capabilities and efficiency of **reasoning** models. 
 
 Below are a few questions I am interested in:
 
