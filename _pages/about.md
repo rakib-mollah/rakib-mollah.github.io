@@ -51,7 +51,7 @@ Slices of life
 		<td width="15%">Jul 2024</td><td>Dated Data accepted to CoLM 2024!</td>
 	</tr> -->
 	<tr>
-		<td width="15%">Mar 2024</td><td>Attended *iCACCESS 2024* conference and presented <a href="https://ieeexplore.ieee.org/document/10499554">this paper</a>.
+		<td width="15%">Mar 2024</td><td>Attended <i>iCACCESS 2024</i> conference and presented <a href="https://ieeexplore.ieee.org/document/10499554">this paper</a>.
 		</td>
 	</tr>
 </table>
