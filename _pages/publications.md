@@ -17,6 +17,8 @@ permalink: /publications/
 - Reza, M. S., Kabir, M. M. J., & __Mollah, M. A. R.__ (2023). _Improving Alzheimer's Disease Diagnosis on Brain MRI Scans with an Ensemble of Deep Learning Models._ In 2023 International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI) [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B2hJJz8AAAAJ&sortby=pubdate&authuser=1&citation_for_view=B2hJJz8AAAAJ:u-x6o8ySG0sC) [[pdf]](/Publications/Improving Alzheimer's Disease Diagnosis on Brain MRI Scans with an Ensemble of Deep Learning Models.pdf)
 
 - __Mollah, M. A. R.__, Kabir, M. M. J., Kabir, M., & Reza, M. S. (2023). _Detection of fake news with roberta based embedding and modified deep neural network architecture._ In 2023 26th international conference on computer and information technology (ICCIT) … [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B2hJJz8AAAAJ&sortby=pubdate&authuser=1&citation_for_view=B2hJJz8AAAAJ:2osOgNQ5qMEC) [[pdf]](/Publications/Detection of Fake News with RoBERTa Based Embedding and Modified Deep Neural Network Architecture.pdf)
+- B.Sc. Thesis - Generation of Bangla Literature Texts by Fine-tuning Generative Pre-trained Transformer [[pdf]](/Publications/Rakib_Mollah_BSc_thesis.pdf)
+
 
 2022
 ---
