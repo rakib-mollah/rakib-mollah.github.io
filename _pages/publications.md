@@ -6,6 +6,10 @@ permalink: /publications/
 
 <link rel="stylesheet" href="../assets/style.css">
 
+2025
+---
+- Mahmud, R., __Mollah, M. A. R.__, Sharma, A. K., & Osama, O. F. (2025). _GRASP-ChoQ: Knowledge Graph-Based Retrieval Augmentation for Stance Detection in Political Texts with Chain-of-Questions Reasoning._ In Proceedings of the BLP Workshop at IJCNLP-AACL 2025. [[link]](https://blp-workshop.github.io/accepted#:~:text=All%20Regular%20Workshop%20Papers) 
+
 2024
 ---
 - __Mollah, M. A. R.__, Kabir, M. M. J., Reza, M. S., & Kabir, M. (2024, March). _Adapting contextual embedding to identify sentiment of e-commerce consumer reviews with addressing class imbalance issues._ In 2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS) (pp. 1–6). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/10499554) [[pdf]](/Publications/Adapting_Contextual_Embedding_to_Identify_Sentiment_of_E_commerce_Consumer_Reviews_with_Addressing_Class_Imbalance_Issues.pdf)
