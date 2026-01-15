@@ -57,6 +57,9 @@ Slices of life
  
 <table>
 	<tr>
+		<td width="15%">Dec 2025</td><td>Paper Accepted in BLP Workshop @ IJCNLP-AACL 2025!</td>
+  	</tr>
+	<tr>
 		<td width="15%">May 2025</td><td>Paper Rejected in ACL 2025😭!</td>
   	</tr>
 	<tr>
