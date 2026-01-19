@@ -8,7 +8,7 @@ permalink: /publications/
 
 2025
 ---
-- Mahmud, R., __Mollah, M. A. R.__, Sharma, A. K., & Osama, O. F. (2025). _GRASP-ChoQ: Knowledge Graph-Based Retrieval Augmentation for Stance Detection in Political Texts with Chain-of-Questions Reasoning._ In Proceedings of the BLP Workshop at IJCNLP-AACL 2025. [[link]](https://blp-workshop.github.io/accepted#:~:text=All%20Regular%20Workshop%20Papers) 
+- Mahmud, R., __Mollah, M. A. R.__, Sharma, A. K., & Osama, O. F. (2025). _GRASP-ChoQ: Knowledge Graph-Based Retrieval Augmentation for Stance Detection in Political Texts with Chain-of-Questions Reasoning._ In Proceedings of the BLP Workshop at IJCNLP-AACL 2025. [[paper]](https://aclanthology.org/2025.banglalp-1.2/) [[pdf]](/Publications/GRASP_ChoQ_compressed.pdf)
 
 2024
 ---
