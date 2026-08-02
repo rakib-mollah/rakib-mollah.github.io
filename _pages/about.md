@@ -7,26 +7,44 @@ permalink: /
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 
-I completed my BSc in Computer Science & Engineering from Rajshahi University of Engineering & Technology. I am currently working as a Machine Learning Engineer at Euclido.Inc.- a Canada-based Ed-tech start-up. 
 
-My research interests broadly lie in the intersection of natural language processing and machine learning. I am currently interested in language models and agents; in particular, I aim to study the downstream effects of **pretraining data** and methods to improve the capabilities and efficiency of **reasoning** models. 
+My central research objective is advancing reasoning capabilities within Large Language Models and Generative AI systems. To achieve this overarching goal, my work explores: 
 
-## Current Role  
-As an ML Engineer, I translate research into production-ready AI solutions. My work includes:  
+- (a) refining internal model logic and alignment through contrastive signals; 
+- (b) grounding reasoning processes using Knowledge Graph-integrated Retrieval-Augmented Generation (RAG) frameworks; and 
+- (c) designing autonomous, multi-agent orchestration systems to execute multi-step reasoning tasks.
 
-- **Designing and deploying a Retrieval-Augmented Generation (RAG) chatbot** that delivers dynamic, context-aware responses.  
-- **Implementing a knowledge graph** to model relationships between chatbot sessions, enhancing contextual understanding—directly applying principles from my prior research in political stance detection.  
-- **Building an autonomous AI agent** to manage ETL pipelines, reducing manual effort through end-to-end automation.  
+## Experience
 
-## Research Interests 
-My work experiences have clarified key challenges in real-world AI deployment and shaped my research focus:  
+**ResearchDen** | *Remote*  
+*Lead Researcher* (Dec. 2024 – Present)
+- Lead collaborative AI and ML research groups, guiding first-time and seasoned researchers from ideation to publishing in peer-reviewed conferences and journals.
+- Mentor community members on research methodology, literature review, and paper writing, fostering a collaborative culture of accountability.
 
-### Knowledge-Enhanced Reasoning Systems  
-I am researching on **knowledge propagation through political entity graphs**, which will improve accuracy in stance detection —especially for underrepresented political domains.
+**AIML Professional Community Bangladesh** | *Remote*  
+*Mentor* (Apr. 2025 – Present)
+- Mentor junior researchers on machine learning projects, providing guidance on research methodologies and technical implementations.
+- Facilitate code reviews and conceptual discussions to improve model performance and adhere to industry best practices.
+
+**Euclido Inc.** | *Waterloo, Ontario, Canada (Remote)*  
+*Machine Learning Engineer-I* (March 2024 – Present)
+- Design LangGraph-based RAG chatbots and implement knowledge graphs to map session relationships, enabling highly context-aware responses and deeper insights into user interactions.
+- Develop autonomous AI agents to manage end-to-end ETL processes, successfully automating data ingestion, transformation, and loading to reduce manual intervention.
+
+**Department of CSE, RUET** | *Rajshahi, Bangladesh*  
+*Research Assistant* (Jan. 2022 – July 2022)
+- Conducted extensive literature reviews and experimental analysis under faculty supervision to explore novel machine learning applications.
+- Contributed to data processing and model evaluation, culminating in findings that were successfully published in a peer-reviewed research paper.
+
+## Future Explorations
+I am currently exploring the following areas:
+
+### Music Information Retrieval (MIR)
+I am fascinated by the structural complexities of music and plan to explore self-supervised representation learning within Music Information Retrieval. My goal is to investigate how generative models can capture the hierarchical nature of audio signals, enabling more intuitive music generation and cross-modal reasoning.
 
 ### Financial Reasoning via Preference Optimization  
 Leveraging my sentiment analysis background, I am exploring how **Direct Preference Optimization (DPO)** can enhance financial reasoning in vision-language models. Unlike conventional fine-tuning (which often degrades multimodal capabilities), DPO-based methods promise to **preserve cross-modal understanding** while boosting domain-specific performance even in smaller language models.  
-
+ 
 ### Multi-Agent Story Generation  
 Building on my Bangla text generation experience, I am curious on novel frameworks where **specialized agents collaborate** to structure narratives. This approach targets the discourse incoherence and hallucination common in single-model systems, maintaining creative flexibility through **controlled multi-agent orchestration**.
 
@@ -50,7 +68,7 @@ Below are a few questions I am interested in:
 
 I would love to discuss my research and any opportunities! Feel free to email me at *rakib.ruet.cs@gmail.com*
 
-Outside of work, I play <a href="https://fantasy.premierleague.com/entry/1519949/event/1">Fantasy Premier League</a>, I am a hobbyist photographer, and I also try to write short stories and poems.
+Outside of work, I enjoy testing my predictive intuition on <a href="https://fantasy.premierleague.com/en/entry/102108/history">Fantasy Premier League</a>, capturing moments as a hobbyist photographer, and writing short stories and poetry.
 
 Slices of life
 ---

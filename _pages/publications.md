@@ -6,6 +6,10 @@ permalink: /publications/
 
 <link rel="stylesheet" href="../assets/style.css">
 
+2026
+---
+- __Mollah, M. A. R.__, & Nabil, A. N. (2026). _Moner Janala: A Curated Bengali Mental Health Advice Dataset from Newspaper Columns._ Mendeley Data, V1. [[dataset]](https://data.mendeley.com/datasets/pwd2r284wh/1)
+
 2025
 ---
 - Mahmud, R., __Mollah, M. A. R.__, Sharma, A. K., & Osama, O. F. (2025). _GRASP-ChoQ: Knowledge Graph-Based Retrieval Augmentation for Stance Detection in Political Texts with Chain-of-Questions Reasoning._ In Proceedings of the BLP Workshop at IJCNLP-AACL 2025. [[paper]](https://aclanthology.org/2025.banglalp-1.2/) [[pdf]](/Publications/GRASP_ChoQ_compressed.pdf)
