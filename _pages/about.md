@@ -7,6 +7,7 @@ permalink: /
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 
+I am a **Machine Learning Engineer** and an AI researcher with a B.Sc. in Computer Science & Engineering from **RUET**. 
 
 My central research objective is advancing reasoning capabilities within Large Language Models and Generative AI systems. To achieve this overarching goal, my work explores: 
 
