@@ -1,4 +1,9 @@
 _site
 .sass-cache
+.jekyll-cache
 .jekyll-metadata
 Gemfile.lock
+
+# Local development helpers
+serve.bat
+_plugins/

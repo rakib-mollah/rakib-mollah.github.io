@@ -9,45 +9,62 @@ permalink: /
 
 I am a **Machine Learning Engineer** and an AI researcher with a B.Sc. in Computer Science & Engineering from **RUET**. 
 
-My central research objective is advancing reasoning capabilities within Large Language Models and Generative AI systems. To achieve this overarching goal, my work explores: 
+My central research objective is advancing reasoning capabilities across Multimodal and Generative AI systems. To achieve this overarching goal, my work explores: 
 
-- (a) refining internal model logic and alignment through contrastive signals; 
-- (b) grounding reasoning processes using Knowledge Graph-integrated Retrieval-Augmented Generation (RAG) frameworks; and 
-- (c) designing autonomous, multi-agent orchestration systems to execute multi-step reasoning tasks.
+- (a) refining internal model logic and alignment through contrastive signals and preference optimization; 
+- (b) enhancing visual and spatial reasoning in Vision-Language Models (VLMs); and 
+- (c) designing Knowledge Graph-grounded RAG architectures and autonomous multi-agent workflows for multi-step reasoning tasks.
 
 ## Experience
 
-**ResearchDen** | *Remote*  
-*Lead Researcher* (Dec. 2024 – Present)
-- Lead collaborative AI and ML research groups, guiding first-time and seasoned researchers from ideation to publishing in peer-reviewed conferences and journals.
-- Mentor community members on research methodology, literature review, and paper writing, fostering a collaborative culture of accountability.
+<div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-top: 1.2em;">
+  <h3 style="margin: 0;">Euclido Inc.</h3>
+  <span style="font-size: 0.9em; opacity: 0.75;">March 2024 – Present</span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-top: 2px; margin-bottom: 4px;">
+  <span><em>Machine Learning Engineer-I</em></span>
+  <span style="font-size: 0.85em; opacity: 0.65;"><em>Waterloo, Canada (Remote)</em></span>
+</div>
 
-**AIML Professional Community Bangladesh** | *Remote*  
-*Mentor* (Apr. 2025 – Present)
-- Mentor junior researchers on machine learning projects, providing guidance on research methodologies and technical implementations.
-- Facilitate code reviews and conceptual discussions to improve model performance and adhere to industry best practices.
-
-**Euclido Inc.** | *Waterloo, Ontario, Canada (Remote)*  
-*Machine Learning Engineer-I* (March 2024 – Present)
 - Design LangGraph-based RAG chatbots and implement knowledge graphs to map session relationships, enabling highly context-aware responses and deeper insights into user interactions.
 - Develop autonomous AI agents to manage end-to-end ETL processes, successfully automating data ingestion, transformation, and loading to reduce manual intervention.
 
-**Department of CSE, RUET** | *Rajshahi, Bangladesh*  
-*Research Assistant* (Jan. 2022 – July 2022)
+<div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-top: 1.2em;">
+  <h3 style="margin: 0;">ResearchDen</h3>
+  <span style="font-size: 0.9em; opacity: 0.75;">Dec. 2024 – Present</span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-top: 2px; margin-bottom: 4px;">
+  <span><em>Lead Researcher</em></span>
+  <span style="font-size: 0.85em; opacity: 0.65;"><em>Remote</em></span>
+</div>
+
+- Lead collaborative AI and ML research groups, guiding first-time and seasoned researchers from ideation to publishing in peer-reviewed conferences and journals.
+- Mentor community members on research methodology, literature review, and paper writing, fostering a collaborative culture of accountability.
+
+<div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-top: 1.2em;">
+  <h3 style="margin: 0;">AIML Professional Community Bangladesh</h3>
+  <span style="font-size: 0.9em; opacity: 0.75;">Apr. 2025 – Present</span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-top: 2px; margin-bottom: 4px;">
+  <span><em>Mentor</em></span>
+  <span style="font-size: 0.85em; opacity: 0.65;"><em>Remote</em></span>
+</div>
+
+- Mentor junior researchers on machine learning projects, providing guidance on research methodologies and technical implementations.
+- Facilitate code reviews and conceptual discussions to improve model performance and adhere to industry best practices.
+
+<div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-top: 1.2em;">
+  <h3 style="margin: 0;">Department of CSE, RUET</h3>
+  <span style="font-size: 0.9em; opacity: 0.75;">Jan. 2022 – July 2022</span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; margin-top: 2px; margin-bottom: 4px;">
+  <span><em>Research Assistant</em></span>
+  <span style="font-size: 0.85em; opacity: 0.65;"><em>Rajshahi, Bangladesh</em></span>
+</div>
+
 - Conducted extensive literature reviews and experimental analysis under faculty supervision to explore novel machine learning applications.
 - Contributed to data processing and model evaluation, culminating in findings that were successfully published in a peer-reviewed research paper.
 
-## Future Explorations
-I am currently exploring the following areas:
-
-### Music Information Retrieval (MIR)
-I am fascinated by the structural complexities of music and plan to explore self-supervised representation learning within Music Information Retrieval. My goal is to investigate how generative models can capture the hierarchical nature of audio signals, enabling more intuitive music generation and cross-modal reasoning.
-
-### Financial Reasoning via Preference Optimization  
-Leveraging my sentiment analysis background, I am exploring how **Direct Preference Optimization (DPO)** can enhance financial reasoning in vision-language models. Unlike conventional fine-tuning (which often degrades multimodal capabilities), DPO-based methods promise to **preserve cross-modal understanding** while boosting domain-specific performance even in smaller language models.  
- 
-### Multi-Agent Story Generation  
-Building on my Bangla text generation experience, I am curious on novel frameworks where **specialized agents collaborate** to structure narratives. This approach targets the discourse incoherence and hallucination common in single-model systems, maintaining creative flexibility through **controlled multi-agent orchestration**.
 
 <!-- 
 Below are a few questions I am interested in:
@@ -66,6 +83,8 @@ Below are a few questions I am interested in:
 <li>How can we construct environments with verifiable rewards and/or induce structure into reasoning chains to make models more capabale and efficient?</li>
 </ul>
 -->
+
+<hr style="border: none; border-top: 1px solid currentColor; opacity: 0.25; margin: 2.5em 0 1.5em 0;" />
 
 I would love to discuss my research and any opportunities! Feel free to email me at *rakib.ruet.cs@gmail.com*
 
